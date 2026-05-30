@@ -1,4 +1,5 @@
 # 🏴‍☠️ The Coral Lookout: Autonomous Intelligence Scout
+<img width="1024" height="1536" alt="6de8ad00-8395-4a8c-b32a-13a83812201e" src="https://github.com/user-attachments/assets/cf96d920-c50f-4c85-8136-4a3df332cde9" />
 
 ![Track](https://img.shields.io/badge/Track-Personal_Agent_(Track_2)-blue)
 ![Bounty](https://img.shields.io/badge/Bounty-Chart_New_Waters-gold)
