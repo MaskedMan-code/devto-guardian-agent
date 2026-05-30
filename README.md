@@ -20,3 +20,5 @@ This vessel carries a hand-crafted custom pipeline connector (`coral/reddit_guar
 * **Autonomous Scouting:** Converts Dev.to API responses into SQL tables via Coral.
 * **Siren Trap Detection:** Gemini AI analyzes payload headers and text descriptions to flag high-risk links.
 * **Chronological Thought Stream:** Replaces flat dashboards with a proactive, chronological agent activity log.
+
+https://devto-guardian-agent-production.up.railway.app/-App Link
