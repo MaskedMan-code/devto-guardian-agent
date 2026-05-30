@@ -1,0 +1,41 @@
+name: devto_agent
+version: 1.0.1
+dsl_version: 3
+backend: http
+
+base_url: "https://dev.to"
+
+test_queries:
+  - SELECT id, title, description, url FROM devto_agent.articles LIMIT 5
+
+tables:
+  - name: articles
+    description: Latest articles pulled from Dev.to API
+    request:
+      method: GET
+      path: /api/articles
+    columns:
+      - name: id
+        type: Int64
+        expr:
+          kind: path
+          path:
+            - id
+      - name: title
+        type: Utf8
+        expr:
+          kind: path
+          path:
+            - title
+      - name: description
+        type: Utf8
+        expr:
+          kind: path
+          path:
+            - description
+      - name: url
+        type: Utf8
+        expr:
+          kind: path
+          path:
+            - url

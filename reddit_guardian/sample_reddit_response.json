@@ -1,0 +1,281 @@
+{
+  "data": {
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_001",
+          "author": "SecurityWatch",
+          "title": "Warning: leaked addresses in comments",
+          "selftext": "I found a thread where users pasted full home addresses and phone numbers in public replies.",
+          "ups": 45,
+          "permalink": "/r/modhelp/comments/post_001"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_002",
+          "author": "AutoMod_Helper",
+          "title": "Weekly promo thread",
+          "selftext": "Join my Discord and use code FREE100 for instant followers and likes.",
+          "ups": 12,
+          "permalink": "/r/smallbusiness/comments/post_002"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_003",
+          "author": "newbie_writer",
+          "title": "Need feedback on my essay",
+          "selftext": "Can anyone review my draft and point out weak arguments?",
+          "ups": 6,
+          "permalink": "/r/writing/comments/post_003"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_004",
+          "author": "throwaway_abc",
+          "title": "Does this look safe?",
+          "selftext": "My email is kabeeer@example.com and my number is 9876543210; should I post this publicly?",
+          "ups": 2,
+          "permalink": "/r/privacy/comments/post_004"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_005",
+          "author": "meme_lord",
+          "title": "This trend is cringe",
+          "selftext": "Not much content here, just a low-effort reaction post.",
+          "ups": 4,
+          "permalink": "/r/funny/comments/post_005"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_006",
+          "author": "bot_runner",
+          "title": "Click here for a gift card",
+          "selftext": "Limited offer, verify your account details here: http://scam.example",
+          "ups": 1,
+          "permalink": "/r/scams/comments/post_006"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_007",
+          "author": "help_me_pls",
+          "title": "Need legal advice",
+          "selftext": "I was evicted and need to understand tenant rights in my state.",
+          "ups": 8,
+          "permalink": "/r/legaladvice/comments/post_007"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_008",
+          "author": "xyz_spammer",
+          "title": "Amazing deal!!!",
+          "selftext": "Buy now, buy now, buy now, buy now. Best price guaranteed.",
+          "ups": 3,
+          "permalink": "/r/deals/comments/post_008"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_009",
+          "author": "data_user",
+          "title": "CSV parsing issue",
+          "selftext": "When I upload the file, the parser fails on line 42.",
+          "ups": 9,
+          "permalink": "/r/programming/comments/post_009"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_010",
+          "author": "naughty_bot",
+          "title": "DM for secret content",
+          "selftext": "Send me a direct message and I will share the files.",
+          "ups": 0,
+          "permalink": "/r/whatever/comments/post_010"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_011",
+          "author": "mod_nego",
+          "title": "Need advice on study schedule",
+          "selftext": "I have exams next month and need a realistic plan.",
+          "ups": 28,
+          "permalink": "/r/demo/comments/post_011"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_012",
+          "author": "bot_rugdfh",
+          "title": "Possible doxxing in thread",
+          "selftext": "Several replies include a street address and exact location.",
+          "ups": 15,
+          "permalink": "/r/demo/comments/post_012"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_013",
+          "author": "mod_xbxb",
+          "title": "Off-topic political rant",
+          "selftext": "This community is for gardening; this is unrelated and inflammatory.",
+          "ups": 28,
+          "permalink": "/r/demo/comments/post_013"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_014",
+          "author": "user_ydasn",
+          "title": "Repeated marketing copy detected",
+          "selftext": "Check out my product at example dot com. Limited time offer.",
+          "ups": 7,
+          "permalink": "/r/demo/comments/post_014"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_015",
+          "author": "user_istmc",
+          "title": "A wholesome update",
+          "selftext": "After months of effort, we finally launched the project.",
+          "ups": 27,
+          "permalink": "/r/demo/comments/post_015"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_016",
+          "author": "user_lznxb",
+          "title": "Phone numbers in screenshot",
+          "selftext": "The attached screenshot clearly shows multiple mobile numbers.",
+          "ups": 20,
+          "permalink": "/r/demo/comments/post_016"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_017",
+          "author": "bot_lnncxa",
+          "title": "Low effort meme dump",
+          "selftext": "Just a chain of memes without any explanation.",
+          "ups": 3,
+          "permalink": "/r/demo/comments/post_017"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_018",
+          "author": "bot_ppgyyb",
+          "title": "My cat learned to open doors",
+          "selftext": "Posting a quick story about my cat.",
+          "ups": 22,
+          "permalink": "/r/demo/comments/post_018"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_019",
+          "author": "mod_opeq",
+          "title": "Urgent: verify your account now",
+          "selftext": "Your account will be suspended unless you send your password.",
+          "ups": 12,
+          "permalink": "/r/demo/comments/post_019"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_020",
+          "author": "user_rioab",
+          "title": "Just sharing my art portfolio",
+          "selftext": "Here is my portfolio and process notes.",
+          "ups": 5,
+          "permalink": "/r/demo/comments/post_020"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_021",
+          "author": "mod_fklp",
+          "title": "Suspicious link in comment",
+          "selftext": "Click the shortened URL for a free badge.",
+          "ups": 9,
+          "permalink": "/r/demo/comments/post_021"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_022",
+          "author": "user_horye",
+          "title": "Where can I find resources?",
+          "selftext": "Looking for official documentation and tutorials.",
+          "ups": 27,
+          "permalink": "/r/demo/comments/post_022"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_023",
+          "author": "user_efmyc",
+          "title": "This seems like a bot",
+          "selftext": "The same sentence is repeated across multiple comments.",
+          "ups": 16,
+          "permalink": "/r/demo/comments/post_023"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_024",
+          "author": "bot_cpayou",
+          "title": "Normal discussion about books",
+          "selftext": "I liked the pacing and character development.",
+          "ups": 6,
+          "permalink": "/r/demo/comments/post_024"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "post_025",
+          "author": "bot_jleobf",
+          "title": "PII in user bio",
+          "selftext": "The profile mentions full name, email, and home city.",
+          "ups": 17,
+          "permalink": "/r/demo/comments/post_025"
+        }
+      }
+    ]
+  }
+}
